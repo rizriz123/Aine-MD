@@ -16,6 +16,11 @@ Jangan lupa untuk mengikuti github ku
 ## Viewer 👁️
 <p align="center"><img src="https://profile-counter.glitch.me/{rizal333}/count.svg" alt="neoxr :: Visitor's Count" /></p>
 
+# Cara install agar tidak eror
+```bash
+npm i baileys@4.5.8
+
+```
 ## Heroku Buildpack
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
 
