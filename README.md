@@ -48,10 +48,11 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Aiinne/Aine-MD
+git clone https://github.com/rizal333/Aine-MD
 cd Aine-MD
-pkg install yarn
-yarn
+npm i
+npm i baileys@4.5.8
+npm start
 
 ```
 ---------
